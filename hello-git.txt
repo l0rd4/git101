@@ -1,0 +1,17 @@
+E:\Projects\l0rd4\git101\hello-git.txt
+https://github.com/l0rd4/git101
+
+path: \l0rd4\git101\
+
+git config --global user.email "l.domenech.ruiz@comunidad.uces.edu.ar"
+git init
+git status
+git add hello-git.txt
+git commit -m "Initial Commit"
+git push "https://github.com/l0rd4/git101.git" master
+
+
+
+
+
+
